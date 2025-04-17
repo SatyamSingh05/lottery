@@ -1,0 +1,14 @@
+[2025-04-17 20:44:04] Lottery system started.
+[2025-04-17 20:44:09] User registered: abc
+[2025-04-17 20:44:13] User registered: qwe
+[2025-04-17 20:44:14] User registered: jk
+[2025-04-17 20:44:15] User registered: yulv
+[2025-04-17 20:44:16] User registered: vulivu
+[2025-04-17 20:44:22] User registered: fhgdg
+[2025-04-17 20:44:22] User registered: hukh
+[2025-04-17 20:44:23] User registered: vyili
+[2025-04-17 20:44:24] User registered: ugk
+[2025-04-17 20:44:25] User registered: cku
+[2025-04-17 20:44:26] User registered: vl
+[2025-04-17 20:44:27] Winner selected: vyili
+[2025-04-17 20:44:27] Lottery system finished.
